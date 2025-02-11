@@ -12,4 +12,6 @@ my is really bad (i'm too *zoomish* now)
 
 ## Why are you here?
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h7au8phdhe3i5ig3uk3q2es3x&cover_image=true&theme=default&show_offline=false&background_color=10138b&interchange=true&bar_color=fb04ee&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h7au8phdhe3i5ig3uk3q2es3x&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) |  <img src="assets/spinozanilast.gif" width="300"  /> | ![gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE2Zm9hdGdxc3R5dHIxaXJ2ZGF0ZXF2YnBqcW1mMmsxOWtyeWV0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7aTUrRdHzOK7HI4/giphy.gif)|
+| ------------- | ------------- | ------------- |
+
