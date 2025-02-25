@@ -7,7 +7,7 @@ Just a **guy** looking to make my developer workflow more awesome, build project
 
 ## 📈 GitHub Stats
 my is really bad (i'm too *zoomish* now)
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=spinozanilast&show_icons=true&theme=radical" alt="Your stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozanilast&layout=compact&theme=radical&hide=html,css" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=spinozanilast&show_icons=true&theme=radical" alt="Your stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozanilast&layout=compact&theme=radical&hide=html,css" /> |
 | ------------- | ------------- |
 
 ## Why are you here?
