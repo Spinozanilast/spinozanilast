@@ -17,6 +17,6 @@ my is really bad (i'm too *zoomish* now)
 
 ## Why are you here?
 
-|  <img src="assets/spinozanilast.gif" width="300"  /> | ![gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ2bHdkbW1jNnBjMHZrY2FieW1tcGE4bzBwMmxjMmoyOW13bnR3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJzcpHBkDuHDWUghUw/giphy.gif)| <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNid25ieXN4cGJtam9vZmE1dmhjcWg1bWJzc3BlcWo3eGtjdnltMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EwjwdDEOyMZZLVUxWN/giphy.gif"/> | 
-| ------------- | ------------- | ------------- |
+|  <img src="assets/spinozanilast.gif" width="300"  /> | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNid25ieXN4cGJtam9vZmE1dmhjcWg1bWJzc3BlcWo3eGtjdnltMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EwjwdDEOyMZZLVUxWN/giphy.gif"/> | 
+| ------------- | ------------- |
 
