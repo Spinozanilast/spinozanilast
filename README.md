@@ -1,6 +1,6 @@
 <div align="center">
 
-[![spinozanilast](https://raw.githubusercontent.com/Spinozanilast/spinozanilast/refs/heads/master/assets/spinozanilast-nickname-outlined.png)](https://spinozanilast.github.io/personal/)
+[![spinozanilast banner](https://raw.githubusercontent.com/Spinozanilast/spinozanilast/refs/heads/master/assets/banner.jpg)](https://spinozanilast.github.io/personal/)
 
 ```yaml
 status: "building cool stuff"
@@ -35,6 +35,7 @@ Just a **guy** who loves crafting code, shipping projects, and optimizing the de
 ## 🤨 why are you here?
 
 | <img src="assets/spinozanilast.gif" width="300" /> | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNid25ieXN4cGJtam9vZmE1dmhjcWg1bWJzc3BlcWo3eGtjdnltMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EwjwdDEOyMZZLVUxWN/giphy.gif" /> |
-| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+[![spinozanilast](https://raw.githubusercontent.com/Spinozanilast/spinozanilast/refs/heads/master/assets/spinozanilast-nickname-outlined.png)](https://spinozanilast.github.io/personal/)
 ---
